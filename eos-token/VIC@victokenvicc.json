@@ -1,0 +1,16 @@
+{
+    "symbol": "VIC",
+    "address": "victokenvicc",
+    "overview": {
+        "en": "BitFun. games is a comprehensive game platform based on block chain technology. It uses the mode of guessing mining and nurturing mining, as well as the game of players destroying dividends. Interesting bit aims to build a de-centralized game platform with VIC card as the core. VIC will be used as the collateral certificate for the promotion of third-party online game platform and the qualification certificate for players to participate in new games, and can obtain the distributed traffic brought by VIC. With the block chain technology as the assistant and the service community as the core, Interbit builds a brand-new block chain game platform and opens a trillion-level game market.",
+        "zh": "趣比特BitFun.games是一个基于区块链技术的综合性的游戏博弈平台，采用竞猜挖矿和养成挖矿的模式，同时采用了玩家销毁分红的玩法。趣比特旨在构建起一个去中心化的，以VIC通证为核心的游戏平台，VIC将会作为第三方游戏上线平台推广的抵押凭证以及游戏玩家参与新游戏的资格通证，并可以获得VIC带来的分布式流量。趣比特以区块链技术为辅助，以服务社区为核心，打造全新的区块链游戏平台，开启万亿级的游戏市场。"
+    },
+    "email": "jacksongithub@gmail.com",
+    "website": "https://betfun.win",
+    "whitepaper": "https://betfun.win/bitfun_whitepaper.pdf",
+    "state": "NORMAL",
+    "published_on": "2019-03-08",
+    "initial_price": {
+        "EOS": "0.005 EOS"
+    }
+}
